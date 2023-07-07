@@ -1,4 +1,4 @@
-# Nome do projeto
+# Desafio Renner
 Projeto de automação de teste com Java, RestAssured para testar a API
 
 ## Descrição
