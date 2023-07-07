@@ -4,6 +4,9 @@
 # Log file
 *.log
 *.DS_Store
+*target
+*allure-results
+*.vscode
 
 # BlueJ files
 *.ctxt

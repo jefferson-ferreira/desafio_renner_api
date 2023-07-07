@@ -1,4 +1,4 @@
-package br.com.lojasrenner.modulos.users;
+package br.com.lojasrenner.modules.users;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -13,7 +13,7 @@ import org.apache.http.HttpStatus;
 
 
 @DisplayName("Users Module API Tests")
-public class UsersTeste extends GenericPage {
+public class UsersTest extends GenericPage {
     static String id = null;
     
     @Test
