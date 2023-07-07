@@ -14,11 +14,15 @@ Este projeto é uma estrutura de teste automatizado com o objetivo de testar API
 * Clone / Baixe o projeto em seu local
 * Abra o prompt de comando e navegue até o local do projeto
 * Execute os seguintes comandos do Maven
-* mvn clean :- Para limpar o repositório maven
-* mvn install :- Para instalar os requirments maven
+* `mvn clean` :- Para limpar o repositório maven
+* `mvn install` :- Para instalar os requirments maven
 
 ## Executando os testes
-* Execute o comando mvn test no seu prompt de comando.
+* Execute o comando `mvn test` no seu prompt de comando.
+
+## Verificar o report gerado dos testes
+* Abra o prompt de comando e navegue até o local do projeto
+* Execute o comando `allure serve target/surefire-reports`.
 
 ## Autor
 Jefferson Ferreira Faria.
