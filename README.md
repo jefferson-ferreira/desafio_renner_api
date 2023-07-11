@@ -18,6 +18,7 @@ Este projeto é uma estrutura de teste automatizado com o objetivo de testar API
 * `mvn install` :- Para instalar os requirments maven
 
 ## Executando os testes
+* Abra o prompt de comando e navegue até o local do projeto
 * Execute o comando `mvn test` no seu prompt de comando.
 
 ## Verificar o report gerado dos testes
